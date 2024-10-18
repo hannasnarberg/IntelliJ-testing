@@ -13,7 +13,7 @@ public class Main {
             System.out.println("------");
             System.out.println("----");
             System.out.println("hej");
-            System.out.println("hejdå");
+            System.out.println("hejdå, Hanna Panna");
         }
     }
 }
